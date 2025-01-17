@@ -17,6 +17,10 @@ st.set_page_config(
 
 # Halaman utama aplikasi
 st.write("Muh. Afiq Ma'mun | 22.11.5163")
+st.write("Wisnu Sasongko | 22.11.5152")
+st.write("Illyaz Arya S. K. | 22.11.5156")
+st.write("Muhammad Thoriq H. S. | 22.11.5141")
+st.write("Wisnala Aryawiduta | 22.11.5168")
 st.title("Metode Numerik: Trapezoidal Rule")
 st.write("Aplikasi ini digunakan untuk menghitung integral tentu dari sebuah fungsi menggunakan metode trapezoidal rule.")
 
